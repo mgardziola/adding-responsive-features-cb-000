@@ -86,6 +86,12 @@
   #navbar nav a.menu-icon {
     display: block;
     float: right;
-    font-sizeL 1.5em;
+    font-size: 1.5em;
+    padding: 10pc 20px;
+    width: auto;
+  }
+  
+  #logo {
+    padding: 60px 0 0;
   }
 }
