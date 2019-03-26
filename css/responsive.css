@@ -40,4 +40,7 @@
 
 @media only screen and (max-width: 800px) {
   
+  #navbor nav a {
+    font-size: 0.9em;
+  }
 }
